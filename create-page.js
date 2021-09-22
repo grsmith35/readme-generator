@@ -16,12 +16,12 @@ const createToc = toc => {
 const checkLicense = license => {
     if(license === 'Free') {
         return `
-![alt text](assets/images/free.png)
+![license type](https://github.com/grsmith35/readme-generator/blob/636350f9bb21e53437db789405d49f2d78168a5b/assets/images/free.png)
         `
     }
     else if (license === 'Standard') {
         return `
-![alt text](assets/images/standard.png)
+![alt text](assets/images/standardimg.PNG)
         `
     }
     else {

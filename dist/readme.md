@@ -1,24 +1,24 @@
 
-# test
+# l;kjasdfljkasd
 #License type
 
-![alt text](assets/images/pro.png)
+![alt text](assets/images/standardimg.PNG)
         
 ## Description
-l;kasdflkjasdfolikjasodli;fjasdf
+alk;jasdfjasd;l
 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
+* [Contributions](#contributions)
+* [License](#license-type)
     
 ## Installation
-alksjdflkajsdf
+al;ksdjf;lkasdjf
 ## Usage
-jaso;difjas;dofj
+a;lksjdf;lkasdjf
 ## Contribution
-me
+kl;ajsdjfl;kas
 ## Tests
-through your own tests
+;lasjdfl;kasjd
     
