@@ -3,7 +3,7 @@ const fs = require('fs');
 //write readme page
 const writeFile = readmeContents => {
     return new Promise((resolve, reject) => {
-        fs.writeFile('./dist/readme.md', readmeContents, err => {
+        fs.writeFile('./dist/README.md', readmeContents, err => {
             if (err) {
                 reject(err);
                 return;

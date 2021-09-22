@@ -90,6 +90,21 @@ const promptUser = () => {
             }
         },
         {
+            type: 'list',
+            name: 'license',
+            message: 'Which type of license do you need?',
+            choices: ['Free', 'Standard', 'Pro'],
+            validate: licInput => {
+                if(licInput) {
+                    return true;
+                }
+                else {
+                    console.log("Please select a license type!");
+                    return false;
+                }
+            }
+        },
+        {
             type: 'confirm',
             name: 'toc',
             message: 'Would you like to include a table of contents?',

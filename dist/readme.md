@@ -1,20 +1,24 @@
 
-# Run-Buddy
-## Description
-this site is designed by trainers for people that are not sure where to start in their fitness journy. You can select the type of trainer you are interested in and sign up to get personal training from them. 
+# test
+#License type
 
-    ## Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Credits](#credits)
-    * [License](#license)
+![alt text](assets/images/pro.png)
+        
+## Description
+l;kasdflkjasdfolikjasodli;fjasdf
+
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
     
 ## Installation
-use the command git clone github.com/grsmith35/run-buddy
+alksjdflkajsdf
 ## Usage
-this is for looks only
+jaso;difjas;dofj
 ## Contribution
-Riley
+me
 ## Tests
-you can fill out the from and submit it.
+through your own tests
     
