@@ -16,17 +16,19 @@ const createToc = toc => {
 const checkLicense = license => {
     if(license === 'Free') {
         return `
-![license type](https://github.com/grsmith35/readme-generator/blob/636350f9bb21e53437db789405d49f2d78168a5b/assets/images/free.png)
+<img src="https://img.shields.io/static/v1?label=LICENSE&message=${license}&color=success" />
+You have limited access to this repository. If you would like to upgrade please contact
+![Riley Smith](https://github.com/grsmith35) .
         `
     }
     else if (license === 'Standard') {
         return `
-![alt text](assets/images/standardimg.PNG)
+<img src="https://img.shields.io/static/v1?label=LICENSE&message=${license}&color=success" />
         `
     }
     else {
         return `
-![alt text](assets/images/pro.png)
+<img src="https://img.shields.io/static/v1?label=LICENSE&message=${license}&color=success" />
         `
     }
 }
@@ -37,7 +39,7 @@ module.exports = pageData => {
 
     return `
 # ${title}
-#License type
+## License type
 ${checkLicense(license)}
 ## Description
 ${description}

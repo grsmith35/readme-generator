@@ -1,11 +1,13 @@
 
-# l;kjasdfljkasd
-#License type
+# kljh
+## License type
 
-![alt text](assets/images/standardimg.PNG)
+<img src="https://img.shields.io/static/v1?label=LICENSE&message=Free&color=success" />
+You have limited access to this repository. If you would like to upgrade please contact
+![Riley Smith](https://github.com/grsmith35) .
         
 ## Description
-alk;jasdfjasd;l
+lhijg
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,11 +16,11 @@ alk;jasdfjasd;l
 * [License](#license-type)
     
 ## Installation
-al;ksdjf;lkasdjf
+]lijkhg
 ## Usage
-a;lksjdf;lkasdjf
+[plijgh
 ## Contribution
-kl;ajsdjfl;kas
+]iuhlg
 ## Tests
-;lasjdfl;kasjd
+gyi
     
