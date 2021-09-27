@@ -1,13 +1,11 @@
 
-# ReadME-Generator
+# Password Generator
 ## License type
 
-<img src="https://img.shields.io/static/v1?label=LICENSE&message=Free&color=success" />
-You have limited access to this repository. If you would like to upgrade please contact
-![Riley Smith](https://github.com/grsmith35) .
+<img src="https://img.shields.io/static/v1?label=LICENSE&message=Pro&color=success" />
         
 ## Description
-This project allows a user to create a readme file using the command prompt. Questions will be asked for each section and then the structure of the document is built and the content typed in the command prompt will be put into the correct section.
+This is a program that takes the criteria you give and uses that to create a password that meets the requirments. 
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,13 +14,13 @@ This project allows a user to create a readme file using the command prompt. Que
 * [License](#license-type)
     
 ## Installation
-install however.
+This can be installed by running a git command and using the repository link.
 ## Usage
-any
+This can be used differently based on license.
 ## Contribution
 Riley
 ## Tests
-test however
+Test using different criteria.
 ## Github User
 [Github profile](https://github.com/grsmith35)
 ## Questions
