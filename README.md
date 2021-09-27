@@ -20,4 +20,4 @@ If you have any questions on this code please reachout to me at gordonrileysmith
 ![command prompt screen shot](https://github.com/grsmith35/readme-generator/blob/b27ab8d1cd41f6780031b290556a78d5022d13fc/assets/images/readmeimg.PNG)
 
 ## Video link
-[Screencastify link] (https://watch.screencastify.com/v/RaTn1iYZvYheOnLhzfG7)
+[Screencastify link](https://watch.screencastify.com/v/RaTn1iYZvYheOnLhzfG7)
