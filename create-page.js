@@ -8,7 +8,7 @@ const createToc = toc => {
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributions](#contributions)
+* [Contributions](#contribution)
 * [License](#license-type)
     `
 };
