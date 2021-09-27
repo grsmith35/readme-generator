@@ -35,7 +35,7 @@ You have limited access to this repository. If you would like to upgrade please 
 
 
 module.exports = pageData => {
-    const {title, description, installation, usage, contribution, tests, license, toc} = pageData;
+    const {title, description, installation, usage, contribution, tests, license, email, toc, github} = pageData;
 
     return `
 # ${title}
@@ -52,5 +52,9 @@ ${usage}
 ${contribution}
 ## Tests
 ${tests}
+## Github User
+[Github profile](https://github.com/${github})
+## Questions
+If you have any questions on this code please reachout to me at ${email}.
     `
 }

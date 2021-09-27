@@ -90,6 +90,34 @@ const promptUser = () => {
             }
         },
         {
+            type: 'input',
+            name: 'github',
+            message: 'Please enter your github username',
+            validate: gitInput => {
+                if(gitInput) {
+                    return true;
+                }
+                else {
+                    console.log("Please enter your github username!");
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'input',
+            name: 'email',
+            message: 'Please enter best email to contact',
+            validate: emailInput => {
+                if(emailInput) {
+                    return true;
+                }
+                else {
+                    console.log("Please enter your email address!");
+                    return false;
+                }
+            }
+        },
+        {
             type: 'list',
             name: 'license',
             message: 'Which type of license do you need?',
